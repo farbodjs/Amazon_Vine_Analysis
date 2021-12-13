@@ -26,4 +26,6 @@ DataSources: https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt and https
 ### Percentage of 5-start non-Vine reviews
 ![image](https://user-images.githubusercontent.com/86033316/145757808-994c5ed1-796b-4547-95eb-a3c86233b846.png)
 
-
+## Summary of results
+54% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews  only 47% for US Furniture Database. This comprehends a positivity bias for reviews in the Vine program.
+Additionally we could analyse the statistical distribution (mode, meadian, mean, standard deviation) on both of our tables for Vine and unpaid programs to make our conclusion, more statistically sound.
